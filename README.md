@@ -1,1 +1,1 @@
-# 2019TechConf
+# Microsoft Dynamics GP Technical Conference 2019
